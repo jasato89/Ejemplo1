@@ -1,2 +1,2 @@
-# ejemplo1
+# Ejemplo1
 Ejemplo para empezar a probar github y gitkraken
